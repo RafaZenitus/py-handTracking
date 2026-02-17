@@ -1,6 +1,6 @@
 About This Project
 
-This repository contains the backend module of my Final Undergraduate Project (TCC). It is responsible for real-time hand tracking using computer vision techniques and sending the processed data through TCP socket communication.
+This repository contains the backend module of my Final Undergraduate Project. It is responsible for real-time hand tracking using computer vision techniques and sending the processed data through TCP socket communication.
 
 The system captures hand landmarks from the webcam, applies smoothing filters to reduce noise, and transmits structured JSON data to an external application.
 
