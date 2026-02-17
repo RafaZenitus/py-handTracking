@@ -15,7 +15,7 @@ The system captures hand landmarks from the webcam, applies **smoothing filters*
 > Both repositories are required for the system to function correctly.
 
 ### Frontend (Godot) Repository:
-https://github.com/RafaZenitus/gd-handTrackig
+[Godot Repository](https://github.com/RafaZenitus/gd-handTrackig)
 
 ---
 
